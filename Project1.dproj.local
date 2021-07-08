@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.900,=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.475,C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.475,C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.449,=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.708,C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.708,C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.525,=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.954,=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.557,=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.338,=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Mehmet\Documents\Embarcadero\Studio\Projects\eczane_otom\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
